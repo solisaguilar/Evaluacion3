@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d4ae4dc-76b8-42b1-b95b-13605f2f2c19" name="Changes" comment="Código">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6d4ae4dc-76b8-42b1-b95b-13605f2f2c19" name="Changes" comment="actualizacion">
       <change beforePath="$PROJECT_DIR$/src/evalucionTres/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evalucionTres/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/evalucionTres/RegistroDeClientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evalucionTres/RegistroDeClientes.java" afterDir="false" />
     </list>
@@ -95,11 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717081370919</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="actualizacion">
+      <option name="closed" value="true" />
+      <created>1717082164105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717082164106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Código" />
-    <option name="LAST_COMMIT_MESSAGE" value="Código" />
+    <MESSAGE value="actualizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="actualizacion" />
   </component>
 </project>
