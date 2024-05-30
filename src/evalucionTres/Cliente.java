@@ -9,10 +9,8 @@ public class Cliente {
     private String telefono;
 
     public Cliente() {
-
     }
 
-    // Constructor
     public Cliente(int id, String codigo, String nombre, String apellido, String email, String telefono) {
         Id = id;
         this.codigo = codigo;
@@ -20,7 +18,6 @@ public class Cliente {
         this.apellido = apellido;
         this.email = email;
         this.telefono = telefono;
-
     }
 
     public int getId() {
@@ -47,5 +44,4 @@ public class Cliente {
         return telefono;
     }
 }
-
 
